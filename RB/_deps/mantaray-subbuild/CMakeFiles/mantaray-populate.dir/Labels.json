@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/media/rafid/Resources/Projects/StockDory/RB/_deps/mantaray-subbuild/CMakeFiles/mantaray-populate"
+		},
+		{
+			"file" : "/media/rafid/Resources/Projects/StockDory/RB/_deps/mantaray-subbuild/CMakeFiles/mantaray-populate.rule"
+		},
+		{
+			"file" : "/media/rafid/Resources/Projects/StockDory/RB/_deps/mantaray-subbuild/CMakeFiles/mantaray-populate-complete.rule"
+		},
+		{
+			"file" : "/media/rafid/Resources/Projects/StockDory/RB/_deps/mantaray-subbuild/mantaray-populate-prefix/src/mantaray-populate-stamp/mantaray-populate-build.rule"
+		},
+		{
+			"file" : "/media/rafid/Resources/Projects/StockDory/RB/_deps/mantaray-subbuild/mantaray-populate-prefix/src/mantaray-populate-stamp/mantaray-populate-configure.rule"
+		},
+		{
+			"file" : "/media/rafid/Resources/Projects/StockDory/RB/_deps/mantaray-subbuild/mantaray-populate-prefix/src/mantaray-populate-stamp/mantaray-populate-download.rule"
+		},
+		{
+			"file" : "/media/rafid/Resources/Projects/StockDory/RB/_deps/mantaray-subbuild/mantaray-populate-prefix/src/mantaray-populate-stamp/mantaray-populate-install.rule"
+		},
+		{
+			"file" : "/media/rafid/Resources/Projects/StockDory/RB/_deps/mantaray-subbuild/mantaray-populate-prefix/src/mantaray-populate-stamp/mantaray-populate-mkdir.rule"
+		},
+		{
+			"file" : "/media/rafid/Resources/Projects/StockDory/RB/_deps/mantaray-subbuild/mantaray-populate-prefix/src/mantaray-populate-stamp/mantaray-populate-patch.rule"
+		},
+		{
+			"file" : "/media/rafid/Resources/Projects/StockDory/RB/_deps/mantaray-subbuild/mantaray-populate-prefix/src/mantaray-populate-stamp/mantaray-populate-test.rule"
+		},
+		{
+			"file" : "/media/rafid/Resources/Projects/StockDory/RB/_deps/mantaray-subbuild/mantaray-populate-prefix/src/mantaray-populate-stamp/mantaray-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"mantaray-populate"
+		],
+		"name" : "mantaray-populate"
+	}
+}

@@ -1,0 +1,3 @@
+/media/rafid/Resources/Projects/StockDory/RB/_deps/thread-pool-subbuild/CMakeFiles/thread-pool-populate.dir
+/media/rafid/Resources/Projects/StockDory/RB/_deps/thread-pool-subbuild/CMakeFiles/edit_cache.dir
+/media/rafid/Resources/Projects/StockDory/RB/_deps/thread-pool-subbuild/CMakeFiles/rebuild_cache.dir

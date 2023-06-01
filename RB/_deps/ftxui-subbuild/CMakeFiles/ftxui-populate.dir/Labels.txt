@@ -1,0 +1,14 @@
+# Target labels
+ ftxui-populate
+# Source files and their labels
+/media/rafid/Resources/Projects/StockDory/RB/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate
+/media/rafid/Resources/Projects/StockDory/RB/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate.rule
+/media/rafid/Resources/Projects/StockDory/RB/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate-complete.rule
+/media/rafid/Resources/Projects/StockDory/RB/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-build.rule
+/media/rafid/Resources/Projects/StockDory/RB/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-configure.rule
+/media/rafid/Resources/Projects/StockDory/RB/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-download.rule
+/media/rafid/Resources/Projects/StockDory/RB/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-install.rule
+/media/rafid/Resources/Projects/StockDory/RB/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-mkdir.rule
+/media/rafid/Resources/Projects/StockDory/RB/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-patch.rule
+/media/rafid/Resources/Projects/StockDory/RB/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-test.rule
+/media/rafid/Resources/Projects/StockDory/RB/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-update.rule

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/media/rafid/Resources/Projects/StockDory/RB/_deps/packageproject.cmake-subbuild/CMakeFiles/packageproject.cmake-populate"
+		},
+		{
+			"file" : "/media/rafid/Resources/Projects/StockDory/RB/_deps/packageproject.cmake-subbuild/CMakeFiles/packageproject.cmake-populate.rule"
+		},
+		{
+			"file" : "/media/rafid/Resources/Projects/StockDory/RB/_deps/packageproject.cmake-subbuild/CMakeFiles/packageproject.cmake-populate-complete.rule"
+		},
+		{
+			"file" : "/media/rafid/Resources/Projects/StockDory/RB/_deps/packageproject.cmake-subbuild/packageproject.cmake-populate-prefix/src/packageproject.cmake-populate-stamp/packageproject.cmake-populate-build.rule"
+		},
+		{
+			"file" : "/media/rafid/Resources/Projects/StockDory/RB/_deps/packageproject.cmake-subbuild/packageproject.cmake-populate-prefix/src/packageproject.cmake-populate-stamp/packageproject.cmake-populate-configure.rule"
+		},
+		{
+			"file" : "/media/rafid/Resources/Projects/StockDory/RB/_deps/packageproject.cmake-subbuild/packageproject.cmake-populate-prefix/src/packageproject.cmake-populate-stamp/packageproject.cmake-populate-download.rule"
+		},
+		{
+			"file" : "/media/rafid/Resources/Projects/StockDory/RB/_deps/packageproject.cmake-subbuild/packageproject.cmake-populate-prefix/src/packageproject.cmake-populate-stamp/packageproject.cmake-populate-install.rule"
+		},
+		{
+			"file" : "/media/rafid/Resources/Projects/StockDory/RB/_deps/packageproject.cmake-subbuild/packageproject.cmake-populate-prefix/src/packageproject.cmake-populate-stamp/packageproject.cmake-populate-mkdir.rule"
+		},
+		{
+			"file" : "/media/rafid/Resources/Projects/StockDory/RB/_deps/packageproject.cmake-subbuild/packageproject.cmake-populate-prefix/src/packageproject.cmake-populate-stamp/packageproject.cmake-populate-patch.rule"
+		},
+		{
+			"file" : "/media/rafid/Resources/Projects/StockDory/RB/_deps/packageproject.cmake-subbuild/packageproject.cmake-populate-prefix/src/packageproject.cmake-populate-stamp/packageproject.cmake-populate-test.rule"
+		},
+		{
+			"file" : "/media/rafid/Resources/Projects/StockDory/RB/_deps/packageproject.cmake-subbuild/packageproject.cmake-populate-prefix/src/packageproject.cmake-populate-stamp/packageproject.cmake-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"packageproject.cmake-populate"
+		],
+		"name" : "packageproject.cmake-populate"
+	}
+}

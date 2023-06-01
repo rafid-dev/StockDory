@@ -1,0 +1,3 @@
+/media/rafid/Resources/Projects/StockDory/RB/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate.dir
+/media/rafid/Resources/Projects/StockDory/RB/_deps/ftxui-subbuild/CMakeFiles/edit_cache.dir
+/media/rafid/Resources/Projects/StockDory/RB/_deps/ftxui-subbuild/CMakeFiles/rebuild_cache.dir

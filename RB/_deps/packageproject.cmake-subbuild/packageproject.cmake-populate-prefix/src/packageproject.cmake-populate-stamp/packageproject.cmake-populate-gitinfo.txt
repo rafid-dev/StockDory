@@ -1,0 +1,15 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=git
+command=/home/rafid/.local/lib/python3.10/site-packages/cmake/data/bin/cmake;-P;/media/rafid/Resources/Projects/StockDory/RB/_deps/packageproject.cmake-subbuild/packageproject.cmake-populate-prefix/tmp/packageproject.cmake-populate-gitclone.cmake
+source_dir=/media/rafid/Resources/Projects/StockDory/RB/_deps/packageproject.cmake-src
+work_dir=/media/rafid/Resources/Projects/StockDory/RB/_deps
+repository=https://github.com/TheLartians/PackageProject.cmake.git
+remote=origin
+init_submodules=TRUE
+recurse_submodules=--recursive
+submodules=
+CMP0097=NEW
+
